@@ -3,3 +3,4 @@ def mysum(a, b):
 
 if __name__ == '__main__':
   mysum(2,3)
+  mysum(10, 20)
